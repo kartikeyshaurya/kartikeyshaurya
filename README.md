@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Self Drving car 
 - 🌱 I’m currently learning Deep Reinforcement Learning
 - 👯 I’m looking to collaborate with other developer
 - 💬 Ask me about ...
