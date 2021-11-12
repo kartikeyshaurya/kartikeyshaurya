@@ -41,9 +41,13 @@
 ## Little bit of summary
 
 <p align = "center">
-    <a href = ><img title = "" src = "http://github-readme-streak-stats.herokuapp.com?user=kartikeyshaurya&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=DD2727"> </a>
+    <a href = ><img title = "" src = "https://github-readme-stats.vercel.app/api?username=kartikeyshaurya&show_icons=true&theme=dark&title_color=9F1C1C&icon_color=FFFFFF"> </a>
 
 </p>
+
+
+
+
 
 <br />
 
