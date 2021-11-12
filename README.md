@@ -1,7 +1,13 @@
 # Hi there 👋, I am Kartikey Shaurya
 [![Website](https://img.shields.io/website?label=personal%20website%20and%20projects&up_message=online&url=https%3A%2F%2Fkartikeyshaurya.github.io%2F)](https://kartikeyshaurya.github.io/)
 
-## I'm a Developer,  Aspiring Data Scientist, and a Curious Cat!!
+
+
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=sans-serif&color=%239F1C1C&multiline=true&lines=I'm+a+Developer+and+Data+Scientist)](https://git.io/typing-svg)
+
+
 <a href = #> <img width= "70%" height = "auto" src = "graph.gif" width = "30px" >
 
 ## About me :
@@ -35,9 +41,9 @@
 ## Little bit of summary
 
 <p align = "center">
-    <a href = ><img title = "" src = "https://github-readme-stats.vercel.app/api?username=kartikeyshaurya&theme=calm"> </a>
-    
+    <a href = ><img title = "" src = "http://github-readme-streak-stats.herokuapp.com?user=kartikeyshaurya&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=DD2727"> </a>
 
+</p>
 
 <br />
 
