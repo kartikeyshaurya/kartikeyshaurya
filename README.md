@@ -52,7 +52,7 @@
 <br />
 
 
-[![](https://github-readme-activity-graph.cyclic.app/graph?username=kartikeyshaurya&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![](https://github-readme-activity-graph.cyclic.app/graph?username=kartikeyshaurya&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ## connect with me 
