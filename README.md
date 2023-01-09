@@ -51,7 +51,8 @@
 
 <br />
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=kartikeyshaurya&theme=react-dark&hide_border=true&line=9F1C1C&color=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![](https://github-readme-activity-graph.cyclic.app/graph?username=kartikeyshaurya&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ## connect with me 
