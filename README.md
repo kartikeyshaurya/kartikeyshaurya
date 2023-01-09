@@ -12,8 +12,8 @@
 
 ## About me :
 
-- 🔭 I’m currently working on **[Self Drving car](https://github.com/kartikeyshaurya/DistroBot)**
-- 🌱 I’m currently learning Deep Reinforcement Learning
+- 🔭 I’m currently working on **[Samarth Project (a portel for blue collor)](https://github.com/kartikeyshaurya/DistroBot)**
+- 🌱 I’m currently learning AIRFLOW
 - 👯 I’m looking to collaborate with other developer
 - 💬 Ask me about ...
 - 📫 How to reach me: kartikeyshaurya@gmail.com
